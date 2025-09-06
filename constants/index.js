@@ -474,7 +474,7 @@ const socials = [
 ];
 
 const heroTexts = [
-  "Machine Learning Engineer",
+  "Spring Boot Developer",
   500,
   "React/Next.js developer",
   500,
